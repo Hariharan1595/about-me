@@ -256,7 +256,7 @@ export const myProjects = [
 export const workExperiences = [
   {
     id: 1,
-    name: 'Framer',
+    name: 'Internship',
     pos: ' Web Developer',
     duration: '3 months',
     title: "During my hands-on experience in React web development, I built dynamic and responsive web applications using modern front-end technologies. I developed reusable components, managed application state using React hooks like useState and useEffect, and implemented client-side routing with react-router-dom. I integrated RESTful APIs to fetch and display data, applied conditional rendering, and ensured responsive UI design with CSS and utility frameworks like Tailwind CSS. I also worked on form handling, basic CRUD operations, and improving performance through component optimization. This experience helped me strengthen my problem-solving skills and deepen my understanding of how modern single-page applications (SPAs) are structured and deployed.",
